@@ -1,4 +1,7 @@
 
+Uncompress nyc_data before generating the data for the code
+
+
 No Animation on some saved data:
 python main.py --input_type synthetic_data/regular_6.txt --delta 1.0 --rho 0.5 --animation 0
 python main.py --input_type synthetic_data/star.txt --delta 1.0 --rho 0.5 --animation 0
